@@ -1,0 +1,12 @@
+C:\Users\pitu\source\repos\Temporizador\Temporizador\bin\Debug\Temporizador.exe.config
+C:\Users\pitu\source\repos\Temporizador\Temporizador\bin\Debug\Temporizador.exe
+C:\Users\pitu\source\repos\Temporizador\Temporizador\bin\Debug\Temporizador.pdb
+C:\Users\pitu\source\repos\Temporizador\Temporizador\obj\Debug\Temporizador.csproj.AssemblyReference.cache
+C:\Users\pitu\source\repos\Temporizador\Temporizador\obj\Debug\Temporizador.csproj.SuggestedBindingRedirects.cache
+C:\Users\pitu\source\repos\Temporizador\Temporizador\obj\Debug\Temporizador.Form1.resources
+C:\Users\pitu\source\repos\Temporizador\Temporizador\obj\Debug\Temporizador.Properties.Resources.resources
+C:\Users\pitu\source\repos\Temporizador\Temporizador\obj\Debug\Temporizador.csproj.GenerateResource.cache
+C:\Users\pitu\source\repos\Temporizador\Temporizador\obj\Debug\Temporizador.csproj.CoreCompileInputs.cache
+C:\Users\pitu\source\repos\Temporizador\Temporizador\obj\Debug\Temporizador.exe
+C:\Users\pitu\source\repos\Temporizador\Temporizador\obj\Debug\Temporizador.pdb
+C:\Users\pitu\source\repos\Temporizador\Temporizador\obj\Debug\Temporizador.Form2.resources
